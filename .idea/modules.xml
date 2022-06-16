@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TERMINAL_NOT_READY.iml" filepath="$PROJECT_DIR$/.idea/TERMINAL_NOT_READY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverTerminalApplication/serverTerminalApplication.iml" filepath="$PROJECT_DIR$/serverTerminalApplication/serverTerminalApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/terminalApplication/terminalApplication.iml" filepath="$PROJECT_DIR$/terminalApplication/terminalApplication.iml" />
+    </modules>
+  </component>
+</project>
